@@ -1,5 +1,6 @@
 # calculadora-de-fisica-MRU-MRUV-CAIDAL-
-este es un proyecto que me pidieron en clase de crear una calculadora fisica 
+#este es un proyecto que me pidieron en clase de crear una calculadora fisica si alguien quisiera aportar algo a este proyecto favor de comentar
+
 import math
 opciones=['1','2','3','4','5','6','7','8','9','10','11','12']
 while True:                 
